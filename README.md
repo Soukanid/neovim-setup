@@ -27,10 +27,6 @@ Welcome to my NeoVim config. Use it for inspiration.
 [vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminates instances of word under cursor  
 [whichkey](https://github.com/folke/which-key.nvim) - shortcut hints
 
-## neovim version supported
 
-^0.10.0
 
-## author
 
-Radley E. Sidwell-Lewis
